@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Maximeesilv/Helpandi/blob/master/icon/Helpandi%20typo%20-%20Copie.png)
-# Helpandi
-Help to be better, Helpandi.
+
+**Help to be better, Helpandi.**
 
 ## Help is a nice thing, but nice things are better together.
 
