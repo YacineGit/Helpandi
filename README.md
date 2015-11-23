@@ -28,3 +28,5 @@ Develop with [Cordova](http://cordova.apache.org/), this application will be abl
 ###Style is very usefull
 A designer from IIM is working on components to make our website/app sexy !
 His portfolio: [Christophe Coquin](http://chris.florian-viola.com)
+
+![EsilIIMEMLV]()
