@@ -1,4 +1,4 @@
-![Logo](https://github.com/Maximeesilv/Helpandi/blob/master/icon/helpandi.png)
+![Logo](https://github.com/Maximeesilv/Helpandi/blob/master/icon/Helpandi%20typo.png)
 # Helpandi
 Help to be better, Helpandi.
 
@@ -30,4 +30,4 @@ Develop with [Cordova](http://cordova.apache.org/), this application will be abl
 A designer from IIM is working on components to make our website/app sexy !
 His portfolio: [Christophe Coquin](http://chris.florian-viola.com)
 
-![ESILVIIMEMLV](https://github.com/Maximeesilv/Helpandi/blob/master/icon/esilviimemlv.jpg)
+                ![ESILVIIMEMLV](https://github.com/Maximeesilv/Helpandi/blob/master/icon/esilviimemlv.jpg)
