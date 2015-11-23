@@ -1,4 +1,4 @@
-![Logo](https://github.com/Maximeesilv/Helpandi/blob/master/icon/helpandi.jpg)
+![Logo](https://github.com/Maximeesilv/Helpandi/blob/master/icon/helpandi.png)
 # Helpandi
 Help to be better, Helpandi.
 
