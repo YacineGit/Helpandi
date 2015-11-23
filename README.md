@@ -1,5 +1,5 @@
 # Helpandi
-ESILV-IIM-EMLV Transversal Project: Help to be better, Helpandi, 
+ESILV-IIM-EMLV Transversal Project: Help to be better, Helpandi,
 
 ## Help is a nice thing, but nice things are better together.
 
