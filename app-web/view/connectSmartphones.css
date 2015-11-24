@@ -1,0 +1,20 @@
+/*
+CSS for connect option
+*/
+@media only screen and (max-device-width: 480px) {
+
+  #logoHelpandi {
+    position: absolute;
+    left: 12%;
+    height: 50%;
+  }
+
+  .sign_in {
+
+  }
+
+  .sign_up {
+    
+  }
+
+}
