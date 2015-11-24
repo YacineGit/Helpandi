@@ -29,6 +29,10 @@ CSS for the connect page on smartphones
 
   }
 
+  .link_sign_in{
+    text-decoration: none;
+  }
+
   #wrap_sign_up {
     position: absolute;
     top: 77%;
