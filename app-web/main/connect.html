@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../view/connect.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="../view/connectSmartphones.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="../view/connectTablets.css" media="screen" title="no title" charset="utf-8">
-
+    <link rel="stylesheet" href="../themes/themes.css" media="screen" title="no title" charset="utf-8">
   </head>
 
   <body>
@@ -14,12 +14,40 @@
     <img src="../../icon/HelpandiTypoLogo.png" id="logoHelpandi"/>
 
     <div class="sign_in">
-      S'inscrire
+      <a href="#">S'inscrire</a>
     </div>
 
-    <div class="sign_up">
-      Se connecter
+    <div id="wrap_sign_up">
+      <div class="wrap_input_sign_up">
+
+        <input type="text" placeholder="Identifiant" class="sign_up_input">
+        <input type="password" placeholder="Mot de passe" class="sign_up_input">
+      </div>
+
+      <div class="wrap_sign_up">
+        <div class="sign_up">
+          <label>Se connecter</label>
+        </div>
+
+      </div>
+
     </div>
+
+
+    <!-- MODAL INFORMATIONS -->
+    <div id="modal_regle" class="cModal">
+      <div>
+        <header>
+          <p>Helpandi, c'est quoi?</p>
+        </header>
+        <p>Fenetre popup simple.</p>
+        <footer class="cf">
+          <a href="#fermer" class="btn" id="fermer">Fermer</a>
+        </footer>
+      </div>
+    </div>
+    <a href="#modal_regle" class="regles">Helpandi, c'est quoi?</a>
+
   </body>
 
 </html>

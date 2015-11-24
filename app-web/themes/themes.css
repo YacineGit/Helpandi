@@ -1,0 +1,110 @@
+/*
+CSS GLOBAL THEMES
+*/
+@media only screen and (max-device-width: 480px) {
+
+  /*
+  CONNECT PAGE
+
+  CSS for the connect page on smartphones
+
+  THEMES MODE
+
+  */
+  html, body {
+    font-family: "Segoe UI";
+    font-size: 45px;
+  }
+
+  .sign_in {
+    background-color: #2b90cb;
+    color: #fcfbe9;
+
+  }
+
+  .sign_up_input {
+    background-color: #fcfbe9;
+  }
+
+  .sign_up {
+    background-color: #2b90cb;
+    color: #fcfbe9;
+  }
+
+
+
+  /*
+  *
+  *
+  *
+  MODAL
+  *
+  *
+  *
+  */
+
+  .regles {
+  	text-decoration: none;
+    color:rgb(124, 124, 124);
+  }
+
+  #fermer {
+  	text-decoration: none;
+  	color:blue;
+  }
+
+  .cModal {
+    background: rgba(0, 0, 0, 0.8);
+  }
+
+  .cModal > div {
+    background: #fff;
+  }
+
+  /*
+  *
+  *
+  *
+  CSS THEMES FOR FORM IN THE INSCRIPTION
+  *
+  *
+  *
+  */
+
+   .info1 {
+     background-color: #fcfbe9;
+   }
+
+   .info1:focus {
+     border:5px solid #2b90cb;
+   }
+
+   .info2 {
+     background-color: #fcfbe9;
+   }
+
+   .info2:focus {
+     border:5px solid #2b90cb;
+   }
+
+   .info3 {
+     background-color: #2b90cb;
+   }
+
+   .info3:focus {
+     border:5px solid #2b90cb;
+   }
+
+   .send_form {
+     background-color: #2b90cb;
+     border: 5px solid black;
+     color: #fcfbe9;
+   }
+
+   .send_form:hover {
+     background-color: #fcfbe9;
+     color: #2b90cb;
+     transition: .7s;
+   }
+
+}
