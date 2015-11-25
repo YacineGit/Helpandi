@@ -1,3 +1,3 @@
 /*
-In order to play with the Iframe 
+ Controller of the view "connect.html"
 */

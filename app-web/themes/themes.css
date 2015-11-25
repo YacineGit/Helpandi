@@ -109,6 +109,7 @@ CSS GLOBAL THEMES
 
    .info3:focus {
      border:5px solid #2b90cb;
+     background-color: #fcfbe9;
    }
 
    .send_form {

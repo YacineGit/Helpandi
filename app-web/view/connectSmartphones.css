@@ -16,6 +16,7 @@ CSS for the connect page on smartphones
 
   .sign_in {
     position: absolute;
+    box-shadow: 1px solid green;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -111,7 +112,7 @@ CSS for the connect page on smartphones
 
   #fermer {
   	text-decoration: none;
-  	color:blue;
+  	color:#2b90cb;
   }
 
   .cModal {
@@ -143,11 +144,11 @@ CSS for the connect page on smartphones
      animation-duration: 0.5s;
   }
   .cModal > div {
-    max-width: 400px;
+    max-width: 600px;
     position: relative;
     margin: 10% auto;
     padding: 8px 8px 8px 8px;
-    border-radius: 2px;
+    border-radius: 8px;
     background: #fff;
   }
 
