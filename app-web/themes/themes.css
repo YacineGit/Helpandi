@@ -11,10 +11,6 @@ CSS GLOBAL THEMES
   THEMES MODE
 
   */
-  html, body {
-    font-family: "Segoe UI";
-    font-size: 45px;
-  }
 
   .sign_in {
     background-color: #2b90cb;
@@ -77,6 +73,7 @@ CSS GLOBAL THEMES
     background: #fff;
   }
 
+
   /*
   *
   *
@@ -123,5 +120,21 @@ CSS GLOBAL THEMES
      color: #2b90cb;
      transition: .7s;
    }
+
+   /*
+   *
+   *
+   *
+   *
+   CSS for MENU PAGE on SMARTPHONES
+   *
+   *
+   *
+   *
+   */
+   #wrap_footer {
+     background-color: #2b90cb;
+   }
+
 
 }
