@@ -108,4 +108,10 @@
    animation-name: cube;
    animation-duration: 1s;
 	}
+
+	#cube:active {
+		background-color: #2b90cb;
+		color:#fcfbe9;
+		transition: 0.2s;
+	}
 }

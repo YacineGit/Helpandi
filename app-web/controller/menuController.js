@@ -17,6 +17,8 @@ function notification() {
 
 	link.style.textDecoration= "none";
 
+	link.id = "help";
+
 	document.body.appendChild(cube);
 	document.body.appendChild(link);
 	link.appendChild(cube);
