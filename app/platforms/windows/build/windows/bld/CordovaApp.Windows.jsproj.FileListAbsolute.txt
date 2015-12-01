@@ -1,0 +1,17 @@
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\debug\anycpu\resources.pri
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\debug\anycpu\CordovaApp.Windows.build.appxrecipe
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\priconfig.xml
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\layout.resfiles
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\resources.resfiles
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\pri.resfiles
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\qualifiers.txt
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\package.map.txt
+C:\Users\Maxime\Documents\COURS ESILV\2015-2016\S05\Semaine Transverse\Helpandi\app\platforms\windows\build\windows\bld\_pkginfo.txt
